@@ -14,3 +14,11 @@ If you wanna do them for yourself, just use this repo as a template and check if
     4. If X is am multiple of 3 AND 5, output "Fizzbuzz"
     5. iF it's not a multiple of 3 OR 5, just output the number
 - Inspiration: https://youtu.be/QPZ0pIK_wsc
+
+### Stringreverse
+- Added 24.06.2022
+- What to do:
+    1. Get user input
+    2. Reverse string
+    3. Output reversed string
+- Inspiration: https://wiki.c2.com/?ProgrammingChallengesForInterview - Challenge 1

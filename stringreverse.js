@@ -1,5 +1,5 @@
 // Stringreverser in nodejs
-// Inspiration & Motivation: https://youtu.be/QPZ0pIK_wsc
+// Inspiration: https://wiki.c2.com/?ProgrammingChallengesForInterview - Challenge 1
 // © CuzImBisonratte 2022
 
 // 

@@ -22,3 +22,11 @@ If you wanna do them for yourself, just use this repo as a template and check if
     2. Reverse string
     3. Output reversed string
 - Inspiration: https://wiki.c2.com/?ProgrammingChallengesForInterview - Challenge 1
+
+### Wordreverse
+- Added 24.06.2022
+- What to do:
+    1. Get user input
+    2. Reverse chars for every word 
+    3. Output reversed word string
+- Inspiration: https://wiki.c2.com/?ProgrammingChallengesForInterview - Challenge 1

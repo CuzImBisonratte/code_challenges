@@ -30,3 +30,11 @@ If you wanna do them for yourself, just use this repo as a template and check if
     2. Reverse chars for every word 
     3. Output reversed word string
 - Inspiration: https://wiki.c2.com/?ProgrammingChallengesForInterview - Challenge 1
+
+### Wordorderreverse
+- Added 26.06.2022
+- What to do:
+    1. Get user input
+    2. Reverse the order of the words for the whole string 
+    3. Output reversed words string
+- Inspiration: https://wiki.c2.com/?ProgrammingChallengesForInterview - Challenge 1

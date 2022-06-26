@@ -24,7 +24,7 @@ If you wanna do them for yourself, just use this repo as a template and check if
 - Inspiration: https://wiki.c2.com/?ProgrammingChallengesForInterview - Challenge 1
 
 ### Wordreverse
-- Added 24.06.2022
+- Added 25.06.2022
 - What to do:
     1. Get user input
     2. Reverse chars for every word 

@@ -1,7 +1,7 @@
 # Code Challenges
 
 This is a repo that puts one-file job-interview-question-solutions together.  
-If you wanna do them for yourself, just use this repo as a template and check if you can do it.
+If you wanna do them for yourself, just use this repo as a template and empty the files - check if you can do it.
 
 ## Challenges
 
